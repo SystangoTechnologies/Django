@@ -42,6 +42,6 @@ simplejson==3.13.2
 six==1.11.0
 text-unidecode==1.2
 uritemplate==3.0.0
-urllib3==1.22
+urllib3==1.26.5
 uWSGI==2.0.17
 vine==1.1.4
